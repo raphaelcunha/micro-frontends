@@ -1,0 +1,7 @@
+{
+  "name": "micro-frontends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raphael Cunha <raphael.s.cunha@gmail.com>",
+  "license": "MIT"
+}
