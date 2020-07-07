@@ -1127,10 +1127,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@examplesraphaelscunha/button@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.7.tgz#eb5d94a67fe0573a343e02c078f4cbaae33b49f1"
-  integrity sha512-WUSVlls9KqUdkSQgf1icy1h1fiJJlHbyJsD8DVm2Vr6rgjeoAV7qCBBBCdW72sxp1F9LFAILBiB1SI7G5u7GZQ==
+"@examplesraphaelscunha/button@0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.9.tgz#150e8dfeb98278ab3a986c0e393cbf19929c3d86"
+  integrity sha512-22XopSXRR3bMaB6m3ZNGN4E4ViiyDVMMBiEVJBL2U3alRP3h4gOQKQf7OZIm4phRmOtC97TDJhZf+bC3Ptx2+w==
   dependencies:
     react "16.8.5"
     react-dom "16.8.5"
@@ -10762,9 +10762,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3, whatwg-encoding@^1.0.5:
   version "1.0.5"
