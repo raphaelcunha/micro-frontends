@@ -1127,10 +1127,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@examplesraphaelscunha/button@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.7.tgz#eb5d94a67fe0573a343e02c078f4cbaae33b49f1"
-  integrity sha512-WUSVlls9KqUdkSQgf1icy1h1fiJJlHbyJsD8DVm2Vr6rgjeoAV7qCBBBCdW72sxp1F9LFAILBiB1SI7G5u7GZQ==
+"@examplesraphaelscunha/button@0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.9.tgz#150e8dfeb98278ab3a986c0e393cbf19929c3d86"
+  integrity sha512-22XopSXRR3bMaB6m3ZNGN4E4ViiyDVMMBiEVJBL2U3alRP3h4gOQKQf7OZIm4phRmOtC97TDJhZf+bC3Ptx2+w==
   dependencies:
     react "16.8.5"
     react-dom "16.8.5"
@@ -6758,9 +6758,9 @@ memory-fs@^0.5.0:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
