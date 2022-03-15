@@ -1127,10 +1127,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@examplesraphaelscunha/button@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.4.tgz#f53b918ca6b82330ac33a1dc4f1e9662d2d7e153"
-  integrity sha512-jX/9yLmSAeKXkf+kXkj1V2av/sbpixJ7redHo1EfZSXtbyqN3NwuJm3/UFOvif2XlqJE6DoFhV00jjrFUSnE4A==
+"@examplesraphaelscunha/button@0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.10.tgz#045242c1c6c13d3973759e51a5f4bdc412cb70cb"
+  integrity sha512-PlVIa08fzhL/cz2ijic0kheXcI9oEccpyDoc0cklYkwddJTdZk5FdX6ZZctaCnsw3NSc4y3ewBBRf9h1iqvgvA==
   dependencies:
     react "16.8.5"
     react-dom "16.8.5"
@@ -6592,9 +6592,9 @@ locate-path@^5.0.0:
     p-locate "^4.1.0"
 
 lodash-es@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.15.tgz#21bd96839354412f23d7a10340e5eac6ee455d78"
-  integrity sha512-rlrc3yU3+JNOpZ9zj5pQtxnx2THmvRykwL4Xlxoa8I9lHBlVbbyPhgyPMioxVZ4NqyxaVVtaJnzsyOidQIhyyQ==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
+  integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==
 
 lodash._reinterpolate@^3.0.0:
   version "3.0.0"
