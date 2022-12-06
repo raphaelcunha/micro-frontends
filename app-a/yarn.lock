@@ -1127,10 +1127,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@examplesraphaelscunha/button@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.7.tgz#eb5d94a67fe0573a343e02c078f4cbaae33b49f1"
-  integrity sha512-WUSVlls9KqUdkSQgf1icy1h1fiJJlHbyJsD8DVm2Vr6rgjeoAV7qCBBBCdW72sxp1F9LFAILBiB1SI7G5u7GZQ==
+"@examplesraphaelscunha/button@0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@examplesraphaelscunha/button/-/button-0.0.9.tgz#150e8dfeb98278ab3a986c0e393cbf19929c3d86"
+  integrity sha512-22XopSXRR3bMaB6m3ZNGN4E4ViiyDVMMBiEVJBL2U3alRP3h4gOQKQf7OZIm4phRmOtC97TDJhZf+bC3Ptx2+w==
   dependencies:
     react "16.8.5"
     react-dom "16.8.5"
@@ -3649,9 +3649,9 @@ decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
